@@ -1,5 +1,5 @@
 Folder:
-Servo - code to play around with the servo, servo.py can be used set the servo to specific angles
+Servo - code to play around with the servo, servo.py can be used set the servo to specific angles\n
 Sensor - code to play around with the tfmini.py starts up the sensor and we can read distances, useful for configuration
 ServoSensor - the actual code that rotates the sensor with the servo, use file rig_2.py, if using this make sure you terminate programs from Servo and Sensor folder
 TfMiniServer - here the file server.py gets the 2d points from rig_2.py over a socket connection. To use, start up server.py on your computer, and on the pi run rig_2.py, once rig_2.py finishes
