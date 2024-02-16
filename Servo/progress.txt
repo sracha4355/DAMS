@@ -1,0 +1,5 @@
+12/23:
+I tried making the servo rotate 180 degrees but it leads to unpredictable
+results. The however rotating it 90 degrees is predictable, and I am able to tochoose the angle with accurate results.
+Next step: is figuring out how mant steps to increment the angle by to capture as much information as possible. 
+
